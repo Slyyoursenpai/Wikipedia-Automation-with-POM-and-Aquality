@@ -1,0 +1,7 @@
+{
+  "wait": 30,
+  "host": "https://www.wikipedia.org/",
+  "url": "https://www.google.com",
+  "username": null,
+  "password": null
+}
