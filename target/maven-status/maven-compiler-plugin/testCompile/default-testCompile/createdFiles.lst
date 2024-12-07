@@ -1,0 +1,9 @@
+utils\FileUtils.class
+tests\BaseTest.class
+utils\SettingsTestData.class
+pages\MainPage.class
+models\EnvData.class
+tests\WikiTest.class
+pages\ArticlePage.class
+models\Env.class
+pages\DownloadPage.class

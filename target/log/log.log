@@ -1,0 +1,140 @@
+2024-08-04 19:37:20 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-04 19:37:20 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-04 19:37:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-04 19:37:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-04 19:37:22 INFO  - Browser 'CHROME' ready...
+2024-08-04 19:37:22 INFO  - Maximizing browser window
+2024-08-04 19:37:22 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-08-04 19:37:27 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-08-04 19:37:27 INFO  - Text Field 'Search Field' :: Clearing
+2024-08-04 19:37:27 INFO  - Text Field 'Search Field' :: Typing 'Tesla'
+2024-08-04 19:37:27 INFO  - Button 'Submit Button' :: Clicking
+2024-08-04 19:37:31 INFO  - Button 'Tools Button' :: Clicking
+2024-08-04 19:37:31 INFO  - Link 'Download as PDF' :: Clicking
+2024-08-04 19:37:33 INFO  - Button 'Download' :: Clicking
+2024-08-04 19:37:38 INFO  - Label 'Download File Name' :: Getting text from element
+2024-08-04 19:37:38 INFO  - Label 'Download File Name' :: Element's text: [Tesla.pdf]
+2024-08-04 19:37:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-04 19:37:39 INFO  - Closing browser
+2024-08-04 20:58:22 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-04 20:58:22 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-04 21:01:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-04 21:01:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-04 21:01:01 INFO  - Browser 'CHROME' ready...
+2024-08-04 21:01:01 INFO  - Maximizing browser window
+2024-08-04 21:01:02 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-08-04 21:01:04 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-08-04 21:01:04 INFO  - Text Field 'Search Field' :: Clearing
+2024-08-04 21:01:04 INFO  - Text Field 'Search Field' :: Typing 'Tesla'
+2024-08-04 21:01:04 INFO  - Button 'Submit Button' :: Clicking
+2024-08-04 21:01:11 INFO  - Button 'Tools Button' :: Clicking
+2024-08-04 21:01:11 INFO  - Link 'Download as PDF' :: Clicking
+2024-08-04 21:01:16 INFO  - Button 'Download' :: Clicking
+2024-08-04 21:01:19 INFO  - Label 'Download File Name' :: Getting text from element
+2024-08-04 21:01:19 INFO  - Label 'Download File Name' :: Element's text: [Tesla.pdf]
+2024-08-04 21:01:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-04 21:01:19 INFO  - Closing browser
+2024-08-09 22:54:47 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-09 22:54:47 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-09 22:54:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-09 22:54:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-09 22:54:48 INFO  - Browser 'CHROME' ready...
+2024-08-09 22:54:48 INFO  - Maximizing browser window
+2024-08-09 22:54:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-08-09 22:54:49 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-08-09 22:54:49 INFO  - Text Field 'Search Field' :: Clearing
+2024-08-09 22:54:49 INFO  - Text Field 'Search Field' :: Typing 'Albert Einstein'
+2024-08-09 22:54:49 INFO  - Button 'Submit Button' :: Clicking
+2024-08-09 22:54:55 INFO  - Button 'Tools Button' :: Clicking
+2024-08-09 22:54:55 INFO  - Link 'Download as PDF' :: Clicking
+2024-08-09 22:54:57 INFO  - Button 'Download' :: Clicking
+2024-08-09 22:55:04 INFO  - Label 'Download File Name' :: Getting text from element
+2024-08-09 22:55:04 INFO  - Label 'Download File Name' :: Element's text: [Albert_Einstein.pdf]
+2024-08-09 22:55:04 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-09 22:55:07 INFO  - Closing browser
+2024-08-09 23:09:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-09 23:09:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-09 23:09:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-09 23:09:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-09 23:09:48 INFO  - Browser 'CHROME' ready...
+2024-08-09 23:09:48 INFO  - Maximizing browser window
+2024-08-09 23:09:48 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-08-09 23:09:49 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-08-09 23:09:50 INFO  - Text Field 'Search Field' :: Clearing
+2024-08-09 23:09:50 INFO  - Text Field 'Search Field' :: Typing 'Albert Einstein'
+2024-08-09 23:09:50 INFO  - Button 'Submit Button' :: Clicking
+2024-08-09 23:09:54 INFO  - Button 'Tools Button' :: Clicking
+2024-08-09 23:10:24 ERROR - No elements with locator 'By.xpath: //nav[contains(@class, 'tools-landmark')]' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: driver.version: unknown
+2024-08-09 23:10:24 FATAL - An exception occurred while tried to save the page source: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c67d55d50997aa23f91ea181f9e1b97, getPageSource {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\chyma\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53586}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53586/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c67d55d50997aa23f91ea181f9e1b97
+2024-08-09 23:10:24 ERROR - No elements with locator 'By.xpath: //nav[contains(@class, 'tools-landmark')]' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: driver.version: unknown
+2024-08-09 23:10:24 INFO  - Closing browser
+2024-08-09 23:11:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-09 23:11:14 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-09 23:11:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-09 23:11:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-09 23:11:16 INFO  - Browser 'CHROME' ready...
+2024-08-09 23:11:16 INFO  - Maximizing browser window
+2024-08-09 23:11:16 INFO  - Navigate to url - 'https://the-internet.herokuapp.com/'
+2024-08-09 23:11:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-09 23:11:48 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-09 23:11:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-09 23:11:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-09 23:11:49 INFO  - Browser 'CHROME' ready...
+2024-08-09 23:11:49 INFO  - Maximizing browser window
+2024-08-09 23:11:49 INFO  - Navigate to url - 'https://www.wikipedia.org/'
+2024-08-09 23:11:50 INFO  - Label 'Main Page' :: Waiting for element to be displayed
+2024-08-09 23:11:50 INFO  - Text Field 'Search Field' :: Clearing
+2024-08-09 23:11:50 INFO  - Text Field 'Search Field' :: Typing 'Albert Einstein'
+2024-08-09 23:11:50 INFO  - Button 'Submit Button' :: Clicking
+2024-08-09 23:11:53 INFO  - Button 'Tools Button' :: Clicking
+2024-08-09 23:12:23 ERROR - No elements with locator 'By.xpath: //nav[contains(@class, 'tools-landmark')]' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: driver.version: unknown
+2024-08-09 23:12:23 FATAL - An exception occurred while tried to save the page source: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=127.0.6533.100)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5266bcbdfe843c6f24b991cf1317a34d, getPageSource {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 127.0.6533.100, chrome: {chromedriverVersion: 127.0.6533.99 (f31af5097d90..., userDataDir: C:\Users\chyma\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53691}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53691/devtoo..., se:cdpVersion: 127.0.6533.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5266bcbdfe843c6f24b991cf1317a34d
+2024-08-09 23:12:23 ERROR - No elements with locator 'By.xpath: //nav[contains(@class, 'tools-landmark')]' were found in DISPLAYED state: Expected condition failed:  (tried for 30 second(s) with 300 milliseconds interval)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: driver.version: unknown
+2024-08-09 23:12:23 INFO  - Closing browser
